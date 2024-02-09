@@ -30,9 +30,7 @@ Follow these steps to set up and run the project:
    ```
 If you are getting an error, open the file in install pakeges one by one using :
 
-    ```bash
-   pip install <pakage==version>
-   ```
+    
 4. Run the project:
 
    ```bash
